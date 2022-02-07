@@ -1,0 +1,22 @@
+body{
+    background-image: url("background.webp");
+    background-size:cover;
+}
+.heading{
+    font-size: 30px;
+}
+#start{
+    font-size: 25px;
+}
+#number_of_objects{
+    font-size: 25px;
+}
+#status{
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid green;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    margin-top: 200px;
+}
